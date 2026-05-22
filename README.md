@@ -28,7 +28,9 @@ Multi-screen React Native app dengan React Navigation.
 
 
 **SearchScreen**
+
 <img width="400" height="auto" alt="gambar5" src="https://github.com/user-attachments/assets/04982af2-4470-4d7e-bf6b-20952f76f61a" />
+
 
 **Function Search Work**
 
