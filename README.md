@@ -27,9 +27,11 @@ Multi-screen React Native app dengan React Navigation.
 <img width="400" height="auto" alt="gambar6" src="https://github.com/user-attachments/assets/bf3a9f30-10c3-43e9-9339-038171c0e80a" />
 
 
+
 **SearchScreen**
 
 <img width="400" height="auto" alt="gambar5" src="https://github.com/user-attachments/assets/04982af2-4470-4d7e-bf6b-20952f76f61a" />
+
 
 
 **Function Search Work**
@@ -37,14 +39,17 @@ Multi-screen React Native app dengan React Navigation.
 <img width="400" height="auto" alt="gambar4" src="https://github.com/user-attachments/assets/9bfd5af3-f82b-42e6-a901-f2404e7b8dcd" />
 
 
+
 **Tombol Add Favorites**
 
 <img width="400" height="auto" alt="gambar1 jpg" src="https://github.com/user-attachments/assets/477a1b77-66b5-4976-bdd3-3d0671376abe" />
 
 
+
 **DetailScreen**
 
 <img width="400" height="auto" alt="gambar2 jpg" src="https://github.com/user-attachments/assets/cc2a761d-313b-443c-adcc-4627b7ea026e" />
+
 
 
 **Favorites Screen - Data Tersimpan**
